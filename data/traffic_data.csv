@@ -1,0 +1,7 @@
+vehicle_count,time_of_day,location,average_speed
+100,08:00,Downtown,20
+200,09:00,Suburb,15
+150,17:00,Downtown,10
+300,18:00,Suburb,12
+250,19:00,Highway,30
+180,21:00,City,40
