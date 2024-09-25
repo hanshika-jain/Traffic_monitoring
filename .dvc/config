@@ -1,0 +1,4 @@
+[core]
+    remote = traffic_dvc
+['remote "traffic_dvc"']
+    url = gdrive://1GDjEgv35P7TaqC5QRH1aG4MNGIFr6G7u
